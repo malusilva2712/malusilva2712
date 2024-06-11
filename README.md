@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## sejam bem vindos👋
+meu nome e Maria Luiza, tenho 17 anos , estou estudando no alura estou me desenvolvendo na linguagem JavaScript , utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+## você pode entrar em contato comigo
+britomarialuizadasilva@gmail.com.br
 <!--
 **malusilva2712/malusilva2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
